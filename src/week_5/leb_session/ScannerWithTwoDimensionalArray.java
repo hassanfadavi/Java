@@ -1,6 +1,5 @@
 package week_5.leb_session;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class ScannerWithTwoDimensionalArray {
