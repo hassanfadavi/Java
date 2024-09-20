@@ -31,9 +31,9 @@ public class GuessingGame {
                 score -= 10;
             } else {
                 System.out.println("Congrats, you have found the number!");
-                System.out.println("The lucky number is: " + userGuess);
-                System.out.println("It took you " + numberOfTries + " tries to find the correct number.");
-                System.out.println("Your score is: " + score);
+//                System.out.println("The lucky number is: " + userGuess);
+//                System.out.println("It took you " + numberOfTries + " tries to find the correct number.");
+//                System.out.println("Your score is: " + score);
             }
 
         }

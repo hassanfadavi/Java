@@ -8,7 +8,6 @@ public class WorkingWithScanner {
 
         Scanner input = new Scanner(System.in);
         String firstName = askTheUserForFirstName(input);
-
         System.out.println( firstName );
 
     }
