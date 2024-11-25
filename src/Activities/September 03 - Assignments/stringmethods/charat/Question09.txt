@@ -1,4 +1,0 @@
-Question 9: Extracting Initials from a Name
-
-Task:
-Given a string "John Doe", use the charAt() method to extract and print the initials "J.D.".

@@ -1,4 +1,0 @@
-Question 9: Substring from a Dynamic Index
-
-Task:
-Given a string "Let's learn Java", extract a substring starting from the second occurrence of the letter "e" to the end of the string. Use the substring() method and print the result.

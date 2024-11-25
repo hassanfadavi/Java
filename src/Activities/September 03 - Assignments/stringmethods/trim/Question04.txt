@@ -1,8 +1,0 @@
-Question 4: Trimming Special Characters
-
-Task:
-Given a string "\tJava\n", use the trim() method to remove any leading or trailing whitespace, including tab and newline characters. Print the result.
-
-Expected Output:
-
-Java

@@ -1,4 +1,0 @@
-Question 6: Finding the Middle Character
-
-Task:
-Given a string "Coding", use the charAt() method to find and print the middle character. Assume the string length is odd.

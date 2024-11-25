@@ -1,8 +1,0 @@
-Question 1: Basic String Comparison
-
-Task:
-Given two strings, "Hello" and "Hello", use the equals() method to check if they are equal. Print the result.
-
-Expected Output:
-
-true

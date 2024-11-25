@@ -1,8 +1,0 @@
-Question 2: Case Sensitivity Check
-
-Task:
-Given a string "Java Programming", use the contains() method to check if it contains the substring "java". Print the result.
-
-Expected Output:
-
-false
